@@ -1,0 +1,28 @@
+{
+  "name": "speed-math",
+  "version": "1.0.0",
+  "description": "Make basic math calculations like add, subtract, multiply and divide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdulloooh/speed-math.git"
+  },
+  "keywords": [
+    "math",
+    "javascript",
+    "add",
+    "javascript",
+    "subtract",
+    "multiply",
+    "divide"
+  ],
+  "author": "abdulloooh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdulloooh/speed-math/issues"
+  },
+  "homepage": "https://github.com/abdulloooh/speed-math#readme"
+}
